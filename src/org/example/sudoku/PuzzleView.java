@@ -61,7 +61,7 @@ public class PuzzleView extends View
 		dark.setColor(getResources().getColor(R.color.puzzle_dark));
 		
 		Paint hilite = new Paint();
-		hilite.setColor(getResources().getColor(R.color.puzzle_light));
+		hilite.setColor(getResources().getColor(R.color.puzzle_hilite));
 		
 		Paint light = new Paint();
 		light.setColor(getResources().getColor(R.color.puzzle_light));

@@ -20,13 +20,14 @@ public final class R {
     public static final class color {
         public static final int background=0x7f070000;
         public static final int puzzle_background=0x7f070001;
-        public static final int puzzle_dark=0x7f070003;
-        public static final int puzzle_foreground=0x7f070004;
-        public static final int puzzle_hint_0=0x7f070005;
-        public static final int puzzle_hint_1=0x7f070006;
-        public static final int puzzle_hint_2=0x7f070007;
-        public static final int puzzle_light=0x7f070002;
-        public static final int puzzle_selected=0x7f070008;
+        public static final int puzzle_dark=0x7f070004;
+        public static final int puzzle_foreground=0x7f070005;
+        public static final int puzzle_hilite=0x7f070002;
+        public static final int puzzle_hint_0=0x7f070006;
+        public static final int puzzle_hint_1=0x7f070007;
+        public static final int puzzle_hint_2=0x7f070008;
+        public static final int puzzle_light=0x7f070003;
+        public static final int puzzle_selected=0x7f070009;
     }
     public static final class drawable {
         public static final int icon=0x7f020000;
