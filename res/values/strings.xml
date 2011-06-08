@@ -30,5 +30,9 @@
 	<string name="hard_label">Hard</string>
 	<string name="godlike_label">GodLike</string>
 	
+	<string name="game_title">Game</string>
+	<string name="no_moves_label">No moves</string>
+	<string name="keypad_title">Keypad</string>
+	
 	<string name="exit_label">Exit</string>
 </resources>
